@@ -1,0 +1,13 @@
+# Fichier robots.txt - Tafitasoa SARL
+
+User-agent: *
+Allow: /
+
+# Empêcher l'accès à certains fichiers internes
+Disallow: /admin/
+Disallow: /system/
+Disallow: /vendor/
+Disallow: /cache/
+
+# Indique à Google où trouver ton plan de site
+Sitemap: https://www.tafitasoa.mg/sitemap.xml
