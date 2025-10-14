@@ -10,4 +10,4 @@ Disallow: /vendor/
 Disallow: /cache/
 
 # Indique à Google où trouver ton plan de site
-Sitemap: https://www.tafitasoa.mg/sitemap.xml
+Sitemap: https://tafitasoasarl.netlify.app/sitemap.xml
