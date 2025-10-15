@@ -271,7 +271,7 @@
                     document.getElementById("devis-form").addEventListener("submit", function (e) {
                         e.preventDefault();
 
-                        emailjs.send("service_0gmlev4", "TON_TEMPLATE_ID", {
+                        emailjs.send("service_0gmlev4", "devis-form", {
                             nom: this.nom.value,
                             email: this.email.value,
                             telephone: this.telephone.value,
